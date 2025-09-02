@@ -1,15 +1,12 @@
+
 {
   "name": "LandingEdu · AI学伴",
   "short_name": "LandingEdu",
-  "start_url": ".",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#0f172a",
+  "theme_color": "#111827",
   "icons": [
-    {
-      "src": "favicon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
   ]
 }

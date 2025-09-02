@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://<your-username>.github.io/<your-repo>/sitemap.xml
+Sitemap: https://simahe2025.github.io/landingAGI2025_AIlearning/sitemap.xml
